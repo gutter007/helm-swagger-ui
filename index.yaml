@@ -3,6 +3,26 @@ entries:
   swaggerui:
   - apiVersion: v2
     appVersion: 3.24.3
+    created: "2024-02-13T21:32:22.262760462Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
+    digest: caa05ac52cc96a39d2bbd3bf5a6fa934cd9747debf662a2bc5ba88cde263b585
+    home: https://swagger.io
+    icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
+    keywords:
+    - swagger
+    - ui
+    - RESTful
+    maintainers:
+    - name: gutter007
+      url: https://github.com/gutter007
+    name: swaggerui
+    urls:
+    - https://github.com/gutter007/helm-swagger-ui/releases/download/swaggerui-0.3.7/swaggerui-0.3.7.tgz
+    version: 0.3.7
+  - apiVersion: v2
+    appVersion: 3.24.3
     created: "2024-02-13T20:52:57.626732534Z"
     description: Swagger is an open-source software framework backed by a large ecosystem
       of tools that helps developers design, build, document, and consume RESTful
@@ -21,4 +41,4 @@ entries:
     urls:
     - https://github.com/gutter007/helm-swagger-ui/releases/download/swaggerui-0.3.6/swaggerui-0.3.6.tgz
     version: 0.3.6
-generated: "2024-02-13T20:52:57.626761137Z"
+generated: "2024-02-13T21:32:22.262772334Z"
